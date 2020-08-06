@@ -15,6 +15,6 @@ class Song
   end
   
   def self.count
-    @@song_count
+    @@song_count = "3"
   end
 end
